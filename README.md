@@ -16,7 +16,7 @@
 ### Google Fonts
 
 - Integração de fontes personalizadas:
-  - Uso da fonte 'Inter' através de links pré-carregados.
+- Uso da fonte 'Inter' através de links pré-carregados.
 
 ---
 
@@ -39,4 +39,5 @@ Incluí algumas capturas de tela do projeto para mostrar como ficou o design e a
 3. **Responsividade em Dispositivos Móveis**
    ![Responsividade] ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/89b6bbae-9923-40e6-9089-72b4f197fdef)
 
-
+## Link do Projeto:
+- https://aluraplus-xi-blue.vercel.app
