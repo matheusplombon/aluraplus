@@ -27,17 +27,17 @@ Este projeto utiliza HTML para estruturação, CSS para estilização e integra�
 Incluí algumas capturas de tela do projeto para mostrar como ficou o design e a aparência final:
 
 1. **Página Principal**
-   ![Página Principal] ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/cdc99d4b-2944-416a-9e34-192154fa75aa)
+    ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/cdc99d4b-2944-416a-9e34-192154fa75aa)
 
 
 
 2. **Página de Detalhes do Curso**
-   ![Página de Detalhes do Curso] ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/9639d420-8326-4ffb-8a8d-086ff656f67e)
+    ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/9639d420-8326-4ffb-8a8d-086ff656f67e)
 
 
 
 3. **Responsividade em Dispositivos Móveis**
-   ![Responsividade] ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/89b6bbae-9923-40e6-9089-72b4f197fdef)
+    ![image](https://github.com/matheusplombon/aluraplus/assets/174143978/89b6bbae-9923-40e6-9089-72b4f197fdef)
 
 ## Link do Projeto:
 - https://aluraplus-xi-blue.vercel.app
